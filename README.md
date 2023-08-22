@@ -4,8 +4,8 @@ Este repositório foi criado para armazenar as modelagens de ameaças e as melho
 
 ### Estrutura do Repositório
 
-* **/Modelagens-de-Ameaças:** Esta pasta contém arquivos Markdown detalhando as modelagens de ameaças realizadas em nossos projetos. Cada arquivo descreve o cenário, ativos, ameaças identificadas, avaliação de riscos e as medidas de mitigação adotadas. Isso ajuda a entender os riscos potenciais em nossas aplicações e como estamos nos protegendo contra eles.
-* **/Melhores-Práticas-DevOps:** Aqui, você encontrará documentos que descrevem as melhores práticas seguidas por nossa equipe no desenvolvimento e operação de aplicações. Isso inclui procedimentos recomendados para integração contínua, entrega contínua, implantação segura, gerenciamento de segredos, monitoramento de vulnerabilidades e muito mais. Esses documentos servem como guias para garantir que estamos seguindo os padrões de segurança e eficiência em nossos processos DevOps.
+* **[/Modelagens-de-Ameaças](./Modelagens-de-Ameaças):** Esta pasta contém arquivos Markdown detalhando as modelagens de ameaças realizadas em nossos projetos. Cada arquivo descreve o cenário, ativos, ameaças identificadas, avaliação de riscos e as medidas de mitigação adotadas. Isso ajuda a entender os riscos potenciais em nossas aplicações e como estamos nos protegendo contra eles.
+* **[/Melhores-Práticas-DevOps](./Melhores-Práticas-DevOps):** Aqui, você encontrará documentos que descrevem as melhores práticas seguidas por nossa equipe no desenvolvimento e operação de aplicações. Isso inclui procedimentos recomendados para integração contínua, entrega contínua, implantação segura, gerenciamento de segredos, monitoramento de vulnerabilidades e muito mais. Esses documentos servem como guias para garantir que estamos seguindo os padrões de segurança e eficiência em nossos processos DevOps.
 
 ### Como Contribuir
 
