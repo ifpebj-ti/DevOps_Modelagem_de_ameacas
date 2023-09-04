@@ -68,4 +68,3 @@
 * Esteja disposto a aprender com sucessos e falhas.
 * Realize retrospectivas regulares para melhorar continuamente os processos.
 
-Lembre-se de que essas boas práticas podem variar de acordo com o contexto e as tecnologias específicas do seu projeto. O importante é criar um ambiente de DevOps colaborativo e eficiente que priorize a qualidade, a segurança e a entrega de valor aos usuários finais.
