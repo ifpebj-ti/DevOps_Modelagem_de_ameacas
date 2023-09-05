@@ -83,3 +83,9 @@ As ameaças foram avaliadas quanto ao seu impacto potencial e probabilidade de o
 ## Conclusão
 
 Este modelo de ameaças identificou várias vulnerabilidades potenciais no processo de Integração Contínua e Entrega Contínua (CI/CD) de uma aplicação web. Ao priorizar as ameaças críticas e implementar medidas de mitigação adequadas, é possível fortalecer a segurança do processo de DevOps e proteger o aplicativo contra ameaças potenciais. A modelagem de ameaças é um processo contínuo e deve ser revisada regularmente à medida que o ambiente evolui.
+
+##### Fontes
+
+
+[
+](https://github.com/ifpebj-ti/DevOps_Modelagem_de_ameacas.git)

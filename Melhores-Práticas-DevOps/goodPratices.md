@@ -68,3 +68,10 @@
 * Esteja disposto a aprender com sucessos e falhas.
 * Realize retrospectivas regulares para melhorar continuamente os processos.
 
+# Fontes
+
+[Boas Práticas de DevOps: Guia explicativo](https://github.com/ifpebj-ti/DevOps_Modelagem_de_ameacas.git)
+
+[Melhores Práticas DevOps](https://conteudo.primeit.com.br/melhores-praticas-devops)
+
+[5 Práticas DevOps para aprimorar a segurança na engenharia de software](https://blog.mandic.com.br/artigos/5-praticas-devops-para-aprimorar-a-seguranca-na-engenharia-de-software/)
